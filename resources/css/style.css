@@ -29,3 +29,10 @@ body {
     color: aquamarine;
     font-size: 16px;
 }
+
+/* FOOTER */
+
+h5 {
+    text-align: right;
+    color: grey;
+}
